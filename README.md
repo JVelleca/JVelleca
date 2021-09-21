@@ -5,7 +5,7 @@
 
 <br />
 
-I'm currently learning about Blockchain and Data Science Projects through the Coursera, I recently completed my IBM Data Science Professional Certification and am looking to further my knowledge of ML, AI, Python, and Blockchain.
+I'm currently learning Blockchain and creating Data Science Projects on Coursera, I recently completed my IBM Data Science Professional Certification and am looking to further my knowledge of ML, AI, Python, and Blockchain.
 - 🏒 I'm looking to collaborate within Sports & :dna: Healthcare Analytics
 - ➕ Ask me about my work history within the Healthcare sector
 - 🥅 2022 Goals: Contribute consistently to open source projects, own projects, and transition into Data Science 💯

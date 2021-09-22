@@ -12,6 +12,12 @@ I'm currently learning Blockchain and creating Data Science Projects on Coursera
 
 <br />
 
+:computer: Favorite languages:
+<br />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVelleca&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 Thanks for coming! ![visitors](https://visitor-badge.glitch.me/badge?page_id=JVelleca)

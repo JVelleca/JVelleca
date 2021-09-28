@@ -1,8 +1,4 @@
 
-![](https://media.giphy.com/media/zgvnmiBbwNGnxs0SYO/giphy.gif) 
-
-
-<br />
 
 ### Hello world 🌎, I'm Jeff Velleca
 [<img align="left" alt="JVelleca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

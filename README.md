@@ -1,3 +1,7 @@
+![](https://media.giphy.com/media/zgvnmiBbwNGnxs0SYO/giphy.gif)
+
+<br />
+
 ### Hello world 🌎, I'm Jeff Velleca
 [<img align="left" alt="JVelleca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JVelleca | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -7,7 +11,7 @@
 
 I'm currently learning Blockchain and creating Data Science Projects on Coursera, I recently completed my IBM Data Science Professional Certification and am looking to further my knowledge of ML, AI, Python, and Blockchain.
 - 🏒 I'm looking to collaborate within Sports & :dna: Healthcare Analytics
-- ➕ Ask me about my work history within the Healthcare sector
+- ➕ Ask me about my work history within the Healthcare sector 
 - 🥅 2022 Goals: Contribute consistently to open source projects, own projects, and transition into Data Science 💯
 
 <br />

@@ -1,15 +1,14 @@
 
 
-### Hello world 🌎, I'm Jeff Velleca
-[<img align="left" alt="JVelleca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JVelleca | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JVelleca | Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />][coursera]
+### Hello world 🌎, I'm Jeff Velleca<img src="https://github.com/JVelleca/JVelleca/blob/main/LogoLoopGIF.gif" width="50" heaight="50"/>
 
-<br />
+[<img align="center" alt="JVelleca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="JVelleca | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="JVelleca | Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />][coursera]
 
-I'm currently learning Blockchain and creating Data Science Projects on Coursera, I recently completed my IBM Data Science Professional Certification and am looking to further my knowledge of ML, AI, Python, and Blockchain.
+I'm currently learning Application of Blockchain and Foundations of Sports Analytics, I recently completed my IBM Data Science Professional Certification and am looking to further my knowledge of ML, AI, Python, and Blockchain.
 - 🏒 I'm looking to collaborate within Sports & :dna: Healthcare Analytics
-- ➕ Ask me about my work history within the Healthcare sector 
+- ➕ Ask me about my work history within the Healthcare sector  
 - 🥅 2022 Goals: Contribute consistently to open source projects, own projects, and transition into Data Science 💯
 
 <br />

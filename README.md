@@ -25,9 +25,17 @@ I'm currently learning Application of Blockchain and Foundations of Sports Analy
 
 <br />
 
+<img src="https://media.giphy.com/media/0Ie3Q2sDPpkinxC55z/giphy.gif" width="300" heaight="300"/>
+<br />
+Modern and innovative approach to Art. I am a creator, consumer, and enthusiast of this space. Any cool projects out there? 
+<p align="left">
+  <img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" width="40" heaight="40"/><img src="https://defirate.com/wp-content/uploads/2021/06/rarible-logo.jpeg" width="40" heaight="40"/>
+<br />
+
 Thanks for coming! ![visitors](https://visitor-badge.glitch.me/badge?page_id=JVelleca)
 
 [linkedin]: https://linkedin.com/in/jeff-velleca-a3a84778
 [instagram]: https://instagram.com/jeff.velleca
 [coursera]: https://coursera.org/user/d6e98c3f950742fd3e9a8c73049a2b8c
+
 -->

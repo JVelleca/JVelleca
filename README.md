@@ -27,7 +27,7 @@ I'm currently learning Application of Blockchain and Foundations of Sports Analy
 
 <img src="https://media.giphy.com/media/0Ie3Q2sDPpkinxC55z/giphy.gif" width="300" heaight="300"/>
 <br />
-Modern and innovative approach to Art. I am a creator, consumer, and enthusiast of this space. Any cool projects out there? 
+Modern and innovative approach to Art. I am a creator, consumer, and enthusiast of this space. Any 🔥 projects out there? 
 <p align="left">
   <img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" width="40" heaight="40"/><img src="https://defirate.com/wp-content/uploads/2021/06/rarible-logo.jpeg" width="40" heaight="40"/>
 <br />

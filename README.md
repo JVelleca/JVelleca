@@ -1,6 +1,6 @@
 
 
-### Hello world 🌎, I'm Jeff Velleca<img src="https://github.com/JVelleca/JVelleca/blob/main/LogoLoopGIF.gif" width="50" heaight="50"/>
+### Hello universe:sparkles:, I'm Jeff Velleca<img src="https://github.com/JVelleca/JVelleca/blob/main/LogoLoopGIF.gif" width="50" heaight="50"/>
 
 [<img align="center" alt="JVelleca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="JVelleca | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]

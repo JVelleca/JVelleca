@@ -1,15 +1,15 @@
 
 
-### Hello universe:sparkles:, I'm Jeff Velleca<img src="https://github.com/JVelleca/JVelleca/blob/main/LogoLoopGIF.gif" width="50" heaight="50"/>
+### Hi, thanks for connecting, I'm Jeff Velleca<img src="https://github.com/JVelleca/JVelleca/blob/main/LogoLoopGIF.gif" width="50" heaight="50"/>
 
 [<img align="center" alt="JVelleca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="JVelleca | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="center" alt="JVelleca | Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />][coursera]
 
-I'm currently learning Application of Blockchain and Foundations of Sports Analytics, I recently completed my IBM Data Science Professional Certification and am looking to further my knowledge of ML, AI, Python, and Blockchain.
-- 🏒 I'm looking to collaborate within Sports & :dna: Healthcare Analytics
-- ➕ Ask me about my work history within the Healthcare sector  
+- 🏅 I work for Apollo V2 ![A1](https://user-images.githubusercontent.com/68663133/157337121-0ffa0d50-8d4c-4ced-b3a9-4010bc766e32.png), a fully customizeable sports data management system. https://apollov2.com/
+- ⚽ If interested please connect with me to demo our sport management system/app available on ios and android! 
 - 🥅 2022 Goals: Contribute consistently to open source projects, own projects, and transition into Data Science 💯
+- Currently learning Application of Blockchain and Foundations of Sports Analytics. 
 
 <br />
 

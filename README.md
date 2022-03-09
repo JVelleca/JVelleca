@@ -6,10 +6,12 @@
 [<img align="center" alt="JVelleca | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="center" alt="JVelleca | Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />][coursera]
 
-- 🏅 I work for Apollo V2 ![A1](https://user-images.githubusercontent.com/68663133/157337121-0ffa0d50-8d4c-4ced-b3a9-4010bc766e32.png), a fully customizeable sports data management system. https://apollov2.com/
+- 🏅 I work for Apollo, a fully customizeable sports data management system.
+![A1](https://user-images.githubusercontent.com/68663133/157536227-d2fbab12-fcab-4e7d-8932-e6452e550955.png) https://apollov2.com/
+
 - ⚽ If interested please connect with me to demo our sport management system/app available on ios and android! 
-- 🥅 2022 Goals: Contribute consistently to open source projects, own projects, and transition into Data Science 💯
-- Currently learning Application of Blockchain and Foundations of Sports Analytics. 
+- 🥅 2022 Goals: Contribute consistently to open source projects, own projects, and utilize our Apollo platform to improve sport performance and prevent injury
+- Currently learning Application of Blockchain and Prediction Models of Sports Analytics. 
 
 <br />
 

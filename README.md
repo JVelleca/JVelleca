@@ -10,7 +10,7 @@
 ![A1](https://user-images.githubusercontent.com/68663133/157536227-d2fbab12-fcab-4e7d-8932-e6452e550955.png) https://apollov2.com/
 
 - ⚽ If interested please connect with me to demo our sport management system/app available on ios and android! 
-- 🥅 2022 Goals: Contribute consistently to open source projects, own projects, and utilize our Apollo platform to improve sport performance and prevent injury
+- 🥅 Goals: Contribute consistently to open source projects, own projects, and utilize our Apollo platform to improve sport performance and prevent injury
 - Currently learning Application of Blockchain and Prediction Models of Sports Analytics. 
 
 <br />

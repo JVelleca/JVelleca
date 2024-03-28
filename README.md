@@ -1,6 +1,6 @@
 
 
-### Hi, thanks for connecting, I'm Jeff Velleca<img src="https://github.com/JVelleca/JVelleca/blob/main/LogoLoopGIF.gif" width="50" heaight="50"/>
+### Hi, thanks for connecting, I'm Jeff Velleca
 
 [<img align="center" alt="JVelleca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="JVelleca | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -9,9 +9,9 @@
 - 🏅 I work for Apollo, a fully customizeable sports data management system.
 ![A1](https://user-images.githubusercontent.com/68663133/157536227-d2fbab12-fcab-4e7d-8932-e6452e550955.png) https://apollov2.com/
 
-- ⚽ If interested please connect with me to demo our sport management system/app available on ios and android! 
-- 🥅 Goals: Contribute consistently to open source projects, own projects, and utilize our Apollo platform to improve sport performance and prevent injury
-- Currently learning Application of Blockchain and Prediction Models of Sports Analytics. 
+- Please connect with me to demo our sport management system/app available on ios and android! 
+- Goals🥅: Contribute consistently to open source projects, own projects, and utilize our Apollo platform to improve sport performance and prevent injury
+- Currently learning Microsoft Azure Admininistration. 
 
 <br />
 
@@ -24,10 +24,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVelleca&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVelleca&layout=compact)](https://github.com/JVelleca/github-readme-stats)
-
-<br />
-
-![NFT_Banner_4](https://user-images.githubusercontent.com/68663133/139169189-19d614d3-8aaf-45be-86c8-6a3049c9d21d.jpg)
 
 <br />
 NFT participation: check out my profiles below

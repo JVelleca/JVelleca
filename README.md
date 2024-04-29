@@ -7,7 +7,7 @@
 [<img align="center" alt="JVelleca | Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />][coursera]
 
 - 🏅 I work for Apollo MIS LLC, a fully customizeable sports data management system.
-<a href="https://www.apollov2.com"><img src="https://user-images.githubusercontent.com/68663133/157536227-d2fbab12-fcab-4e7d-8932-e6452e550955.png" alt="Description of the image"></a>
+<a href="https://www.apollov2.com"><img src="https://apollov2.com/wp-content/uploads/2023/10/Apollo-logo-white.png" alt="Description of the image"></a>
 
 - Please connect with me to demo our sport management system/app available on ios and android! 
 - Goals🥅: Contribute consistently to open source projects, own projects, and utilize our Apollo platform to improve sport performance and prevent injury
@@ -26,13 +26,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVelleca&layout=compact)](https://github.com/JVelleca/github-readme-stats)
 
 <br />
-NFT participation: check out my profiles below
+NFT participation: check out my profile below
 <p align="left">
-<a href="https://opensea.io/JVell/"><img alt="opensea" src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" width="40" heaight="40"><a href="https://rarible.com/jvell"><img alt="rarible" src="https://defirate.com/wp-content/uploads/2021/06/rarible-logo.jpeg" width="40" heaight="40"/>  
+<a href="https://opensea.io/JVell/"><img alt="opensea" src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" width="40" heaight="40">
   
 <br />  
   
-Thanks for coming!![visitors](https://visitor-badge.glitch.me/badge?page_id=JVelleca)
+Thanks for coming!
 
 [linkedin]: https://linkedin.com/in/jeff-velleca-a3a84778
 [instagram]: https://instagram.com/jeff.velleca

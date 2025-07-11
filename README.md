@@ -6,12 +6,12 @@
 [<img align="center" alt="JVelleca | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="center" alt="JVelleca | Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />][coursera]
 
-- 🏅 I work for Apollo MIS LLC, a fully customizeable sports data management system.
-<a href="https://www.apollov2.com"><img src="https://apollov2.com/wp-content/uploads/2023/10/Apollo-logo-white.png" alt="Description of the image"></a>
+-    I work for Amalgamated Life  -  Health and Life Insurance Provider
+-    Connect with me to learn about my contracting services:
+-    ISO 27001, SOC, HIPAA, GDPR Audit Prep
+<br />
 
-- Please connect with me to demo our sport management system/app available on ios and android! 
-- Goals🥅: Contribute consistently to open source projects, own projects, and utilize our Apollo platform to improve sport performance and prevent injury
-- Currently learning Microsoft Azure Admininistration. 
+<img height="180cm" src="https://www.burhantec.com/wp-content/uploads/2024/04/iso-27001-logo.png"/> <img height="180cm" src="https://www.sdmmag.com/ext/resources/2021/12/07/soc-2.jpg?1638891387"/> <img height="180cm" src="https://www.dynafile.com/wp-content/uploads/2023/06/HIPAA2-1.png"/>
 
 <br />
 

@@ -1,4 +1,4 @@
-![Hi, I'm Jeff](./A_digital_graphic_design_banner_features_a_dark_ba.png)
+# Hi, I'm Jeff 👋 
 
 💻 **Senior IT Project Manager | Web3 Enthusiast | Compliance & Sports Tech Innovator**  
 

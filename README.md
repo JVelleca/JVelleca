@@ -42,7 +42,7 @@ My GitHub is a mix of **Web3/NFT experiments, compliance automation tools, and s
 - [Compliance Automation Scripts](https://github.com/JVelleca/compliance-automation-scripts) → Python/Bash scripts for security checks.  
 - [Audit Control Checklist App](https://github.com/JVelleca/audit-checklist-app) → Streamlit app to track SOC/ISO controls.  
 
-### ⚽ Sports & Analytics  
+### 🏒 Sports & Analytics  
 - [Sports Data Dashboard](https://github.com/JVelleca/sports-dashboard) → React dashboard pulling stats from sports APIs.  
 - [Athlete Performance Analysis](https://github.com/JVelleca/athlete-performance-analysis) → Jupyter notebooks analyzing performance metrics.  
 - [Fantasy Sports Optimizer](https://github.com/JVelleca/fantasy-optimizer) → Python optimizer for fantasy team lineups.  
